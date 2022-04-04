@@ -1,8 +1,8 @@
 
-  # read me generator
+  # portfolio generator
 
   ## Description
-  generates readme.md
+  generates portfolios
 
   ## Table of Contents
   - [Description](#description)
@@ -17,16 +17,18 @@
   install inquirer and npm
 
   ## Usage
-  to generate readme's for projects
+  could be used to easily generate readme
 
   ## Contribute
-  You can contribute by ..
+  you can contribute by:
 
   ## License
-  Apache
+  ![badge](https://img.shields.io/badge/license-MIT-success)
+  
+  Licensed under MIT
 
   ## Test
-  test it by ..
+  Test by:
 
   ## Questions
   Contact me with any questions!
