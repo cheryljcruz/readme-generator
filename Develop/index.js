@@ -11,10 +11,10 @@ const questions = () => {
         .prompt([
             {
                 type: 'input',
-                name: 'name',
+                name: 'title',
                 message: 'What is the title of your project? (Required)',
-                validate: nameInput => {
-                    if (nameInput) {
+                validate: titleInput => {
+                    if (titleInput) {
                         return true;
                     } else {
                         console.log('You need to enter a project title!');
