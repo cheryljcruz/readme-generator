@@ -1,8 +1,8 @@
 
-  # portfolio generator
+  # Portfolio Generator
 
   ## Description
-  generates portfolios
+  This project generates portfolios through the command line prompt
 
   ## Table of Contents
   - [Description](#description)
@@ -14,13 +14,13 @@
   - [Questions](#questions)
   
   ## Installation
-  install inquirer and npm
+  You must install inquirer and npm in order to use this application.
 
   ## Usage
-  could be used to easily generate readme
+  This project could be utilized to generate portfolios quickly through the command line prompt.
 
   ## Contribute
-  you can contribute by:
+  There are no current instructions on contributing.
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-success)
@@ -28,7 +28,7 @@
   Licensed under MIT
 
   ## Test
-  Test by:
+  There are no current tests for this application.
 
   ## Questions
   Contact me with any questions!
