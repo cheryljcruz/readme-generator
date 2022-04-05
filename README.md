@@ -24,4 +24,7 @@ Here's a screenshot of the working tree for this project:
 
 ![working tree readme](https://user-images.githubusercontent.com/98433176/161868607-f30f2358-999e-4ed1-a783-afedfa4ede97.PNG)
 </br>
- *Please note: the readme generated utilizing this application is generated in the utils folder.*
+ *Please note: the readme generated utilizing this application is generated in the develop folder.*
+ </br>
+ 
+- This is a sample readme that was generated using this application: ![sample readme.md](https://github.com/cheryljcruz/readme-generator/blob/main/Develop/README.md)
